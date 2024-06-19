@@ -35,7 +35,7 @@ document
     console.log(spanData.length);
     console.log(videoTitle);
 
-    fetch("https://nexlearn.vercel.app/api/loading/udemy", {
+    fetch("http://localhost:3000/api/loading/udemy", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
