@@ -14,7 +14,7 @@ Ensure to follow these steps accurately for the extension to function correctly.
 
 Enable Developer Mode in your browser's extensions settings, click on "Load unpacked," and select the "Prod" folder.
 
-![2 - Developer mode - Load unpacked - Select Prod or Dev .png](../images/2%20-%20Developer%20mode%20-%20Load%20unpacked%20-%20Select%20Prod%20or%20Dev%20.png)
+![2 - Developer mode - Load unpacked - Select Prod or Dev .png](../images/2.png)
 
 ## 3. Verify Correct Version
 
